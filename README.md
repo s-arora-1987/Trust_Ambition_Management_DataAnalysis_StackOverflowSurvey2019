@@ -1,4 +1,4 @@
-# Trust_Ambition_Management_DataAnalysis_StackOverflowSurvey2019
+# Analysis for devlopers trust and ambition for management using data from StackOverflow Survey' 2019
 
 For testing this project code, please download the data set files survey_results_public.csv and survey_results_schema.csv from https://insights.stackoverflow.com/survey for year 2019.
 
